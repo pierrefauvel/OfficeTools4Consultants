@@ -1,7 +1,7 @@
 OfficeTools4Consultants
 =======================
 
-Office Tools 4 Consultants : use of Office and XMind
+Office Tools 4 Consultants : Boost use of Xmind and PowerPoint
 
 This set of tools is designed for Consultants, and ready to use.
 * [Ideation Memories](https://github.com/pierrefauvel/OfficeTools4Consultants/wiki/IdeationMemories
